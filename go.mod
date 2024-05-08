@@ -1,5 +1,5 @@
 // module geometry-lib
-module github.com/megapangastuti/geometry-lib
+module github.com/megapangastuti/geometry-lib2
 
 // github.com adalah version control repository yang kita gunakan
 // rnd-enigmacamp adalah akun github yang kita pake
